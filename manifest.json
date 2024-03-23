@@ -9,9 +9,7 @@
     "browser_action": {
       "default_popup": "popup.html",
       "default_icon": {
-        "16": "logo_trans.png",
-        "48": "logo_trans.png",
-        "128": "logo_trans.png"
+        "256": "logo_trans.png"
       }
     },
     "content_scripts": [
